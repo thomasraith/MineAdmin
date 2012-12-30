@@ -1,0 +1,28 @@
+MineAdmin Plugin allows you to manage your server with the MineAdmin Client. 
+The MineAdmin Client can be downloaded here: mineadmin.xtrsource.com
+
+#######################
+# System Requirements #
+#######################
+
+- MineCoupon is ready for CraftBukkit 1.4.5 R1.0.
+
+################
+# Installation #
+################
+
+- Copy MineAdmin.jar in your plugin directory
+- Resart your server
+- Edit config.yml to personalize your server
+- Select a password - use a minimum of 10 characters (the default password is randomly generated)
+- Select the port for the MineAdmin Server (it is recommended not to use 1001)
+- Select white/blacklist settings
+- Select log settings
+- If you don't want to install PluginMetrics set allowpluginmetrics: false
+- Restart your server
+
+############### 
+# Permissions #
+###############
+
+MineAdmin doesn't have any permissions.

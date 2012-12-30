@@ -1,0 +1,12 @@
+name: MineAdmin Plugin
+version: 1.0
+description: MineAdmin provides a powerful admin system for bukkit servers.
+author: Raith Thomas
+website: http://www.xtrsource.com
+
+main: com.xtrsource.mineadmin.MineAdmin
+
+commands:
+    mineadmin:
+        description: 'Main command of Mineadmin'
+        usage: 'Usage: /mineadmin'
